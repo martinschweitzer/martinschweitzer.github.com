@@ -1,5 +1,3 @@
-# How does it work?
-
 Hello
 =====
 
